@@ -1,6 +1,6 @@
-# toDoJavascript
+##toDoJavascript
 
-## simple applications running CRUD operations:
+#simple application running CRUD operations:
 CREATE
 READ
 UPDATE
