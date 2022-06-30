@@ -1,9 +1,11 @@
 #toDoJavascript
+---
 
-##simple application running CRUD operations:
-CREATE
-READ
-UPDATE
+##simple application running CRUD operations:<br>
+<br>
+CREATE<br>
+READ<br>
+UPDATE<br>
 DELETE
 
-Using javascript
+Using ***javascript*** :)
